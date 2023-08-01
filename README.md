@@ -1,0 +1,1 @@
+# splunk-s3-generic-input
